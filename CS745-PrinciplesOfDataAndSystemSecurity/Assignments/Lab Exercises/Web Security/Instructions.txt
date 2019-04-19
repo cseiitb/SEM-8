@@ -1,0 +1,7 @@
+Instructions:
+PHP based web application available at http://xss.isrdc.iitb.ac.in/assignment-xss/
+First time users can create their account at this application.
+Once account created, login with your username and password.
+Once authenticated,users can view messages of other users or post messages which can be viewed by other users. 
+You can delete your posts by clicking on "Delete my posts" button.
+Perform tasks as mentioned in pdf.
